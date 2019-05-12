@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="corner_radius">5dp</dimen>
+    <dimen name="card_elevation">55dp</dimen>
+    <dimen name="margin_top">5dp</dimen>
+    <dimen name="cv_height_for_chat">70dp</dimen>
+    <dimen name="chat_shape_corner_radius">25dp</dimen>
+    <dimen name="margin_allside">16dp</dimen>
+    <dimen name="sender_chat_padding_allside">5dp</dimen>
+    <dimen name="img_height_reciever">50dp</dimen>
+    <dimen name="img_width_reciever">70dp</dimen>
+    <dimen name="text_medium">18sp</dimen>
+    <dimen name="img_width_sender">110dp</dimen>
+    <dimen name="img_height_sender">90dp</dimen>
+</resources>

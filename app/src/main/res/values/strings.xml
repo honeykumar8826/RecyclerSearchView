@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecyclerSearchView</string>
+    <string name="for_three">For Three</string>
+    <string name="for_two">For Two</string>
+    <string name="for_chat">For Chat</string>
+    <string name="for_list">For List</string>
+    <string name="for_grid">For Grid</string>
+    <string name="data_set">Data Set</string>
+    <string name="sender">Sender</string>
+    <string name="student_name">Student Name</string>
+    <string name="student_age">Student Age</string>
+    <string name="textView">TextView</string>
+    <string name="hello">Hello</string>
+    <string name="search">Search</string>
+</resources>
